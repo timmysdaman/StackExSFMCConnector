@@ -1,0 +1,6 @@
+[submodule "FuelSDK-Java"]
+	path = FuelSDK-Java
+	url = https://github.com/ExactTarget/FuelSDK-Java
+[submodule "stackoverflow-java-sdk"]
+	path = stackoverflow-java-sdk
+	url = https://github.com/sanjivsingh/stackoverflow-java-sdk
